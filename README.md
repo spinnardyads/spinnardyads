@@ -17,12 +17,7 @@
 ## Sobre mim
 
 ```js
-const scott = {
-  role: "Developer",
-  interests: ["Web Development", "Automation", "Discord Bots"],
-  focus: "Building useful digital projects",
-  status: "Always learning"
-};
+
 ```
 
 ## Tecnologias
